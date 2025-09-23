@@ -1,0 +1,21 @@
+This data set contains the input and output files, as well as formatted result files of the DFT calculations with Crystal.
+
+The data is organized similar to the result tables in the publication:
+- FE contains the 20 ferroelectric candidates (Table 1, Table 2)
+- PE contains the 14 pyroelectric candidates (Table 4) 
+- WM containts the 23 compounds with wrong structure models (Table 5)
+
+The directories of the structures are labeled as : pointgroup_formula_pearson-symbol_spacegroup-number.
+
+Each compound directory contains subdirectories for the polar (polar) and the centrosymmetric (centro) structure models.
+
+For each model structural optimization results (*opt.out, opt.cif) are given in the subdirectory opt. Input files are included in *.out.
+
+The data set further contains frequency calculations at the Gamma point (*freq.out) in the subdirectory freq.
+It contains calculated IR (*.irspec) and Raman (*.ramspec) spectra and formatted csv-files for the Born charges, the dielectric tensor and the IR and Raman mode details.   
+
+For ferroelectric compounds calculated polarization paths are in the centro/pol directory. 
+It contains cif and output files of single-point calculations (0.cif - 4.cif) along the path.
+Path files labeled 0 and 4 correspond to the centrosymmetric and polar reference, respectively.
+The berry and wannier subdirectory contains property calculation results of the electronic polarization with corresponding method.
+The csv-files give the polarization values along the path for Berry, Wannier and ionic model calculations.
