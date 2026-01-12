@@ -1,5 +1,5 @@
 # ferroelectric_metal_fluorides_dataset
-This repository contains the DFT raw data and analysis for the publication "A First-Principles Analysis of Polar Metal Fluorides as Candidates for New Ferroelectric Materials".
+This repository contains the DFT raw data and analysis for the publication "A First-Principles Analysis of Metal Fluorides with Polar Crystal Structures as Candidates for New Ferroelectric Materials".
 
 ## Methods
 The DFT calculations have been performed with Crystal23 using the hybrid functional PBE0 and TZVP basis sets. 
@@ -22,3 +22,5 @@ For details, see: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/
 
 ## Citation
 If you use these data, please cite as follows:
+
+Malte Sachs, Antti J. Kartunnen, Florian Kraus, A First-Principles Analysis of Metal Fluorides with Polar Crystal Structures as Candidates for New Ferroelectric Materials, Mater Chem. **2026**, https://doi.org/10.1021/acs.chemmater.5c02528
