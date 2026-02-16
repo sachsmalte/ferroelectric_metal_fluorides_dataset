@@ -23,4 +23,6 @@ For details, see: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/
 ## Citation
 If you use these data, please cite as follows:
 
-Malte Sachs, Antti J. Kartunnen, Florian Kraus, A First-Principles Analysis of Metal Fluorides with Polar Crystal Structures as Candidates for New Ferroelectric Materials, Mater Chem. **2026**, https://doi.org/10.1021/acs.chemmater.5c02528
+Malte Sachs, Antti J. Kartunnen, Florian Kraus, A First-Principles Analysis of Metal Fluorides with Polar Crystal Structures as Candidates for New Ferroelectric Materials, Mater Chem. **2026**,*38*, *3*, 1204–1219. https://doi.org/10.1021/acs.chemmater.5c02528
+
+
